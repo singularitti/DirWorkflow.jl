@@ -5,6 +5,7 @@ DirWorkflow = "af77908b-fbd1-5c81-abc0-13a9534196fe"
 
 [compat]
 Documenter = "1"
+LiveServer = "1.5.0"
 
 [sources]
 DirWorkflow = {path = ".."}
